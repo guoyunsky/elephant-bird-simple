@@ -23,10 +23,8 @@ Quick Start
  - 2.cd elephant-bird-simple
  - 3.use "ant generate-source" command to generate source code
  - 4.use "ant clean-generated-source" command to clean source code which by generated
- - 5.Build Eclipse Project
-
-
-  Import->Existing Projects into Workspace->Select elephant-bird-simple
+ - 5.Build Eclipse Project<br />
+     Import->Existing Projects into Workspace->Select elephant-bird-simple
 
 
 Other
