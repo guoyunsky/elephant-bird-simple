@@ -19,12 +19,14 @@ Version
 
 Quick Start
 ----------------------------------------------------------------------------------------------------------------------------
-1.git clone https://github.com/guoyunsky/elephant-bird-simple.git</br>
-2.cd elephant-bird-simple</br>
-3.use "ant generate-source" command to generate source code</br>
-4.use "ant clean-generated-source" command to clean source code which by generated</br>
-5.Build Eclipse Project</br>
-	Import->Existing Projects into Workspace->Select elephant-bird-simple
+ - 1.git clone https://github.com/guoyunsky/elephant-bird-simple.git
+ - 2.cd elephant-bird-simple
+ - 3.use "ant generate-source" command to generate source code
+ - 4.use "ant clean-generated-source" command to clean source code which by generated
+ - 5.Build Eclipse Project
+
+
+  Import->Existing Projects into Workspace->Select elephant-bird-simple
 
 
 Other
