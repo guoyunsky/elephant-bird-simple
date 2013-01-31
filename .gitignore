@@ -1,6 +1,7 @@
 *.class
 bin/
 src/gen-*
+*~
 # Package Files #
 *.jar
 *.war

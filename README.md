@@ -3,7 +3,7 @@ elephant-bird-simple
 About
 ----------------------------------------------------------------------------------------------------------------------------
 elephant-bird-simple is a eclipse project,it can help developers to use ant command to generae source code by elephant-bird.
-This version base on elephant-bird 2.1.8,so can use this project to generate:
+This version base on elephant-bird 2.1.8,so can use this project to generate:\r
 	1)Hadoop Writable/InputFormat/OutputFormat
 	2)Pig/LoadFunc/StoreFunc
 	3)Hive/SerDe
@@ -12,6 +12,10 @@ This version base on elephant-bird 2.1.8,so can use this project to generate:
 License
 ----------------------------------------------------------------------------------------------------------------------------
 Apache licensed.
+
+Version
+----------------------------------------------------------------------------------------------------------------------------
+2.1.8
 
 Quick Start
 ----------------------------------------------------------------------------------------------------------------------------
