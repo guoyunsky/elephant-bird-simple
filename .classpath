@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="src/gen-java"/>
+	<classpathentry kind="src" path="src/proto"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/elephant-bird-2.1.8.jar"/>
+	<classpathentry kind="lib" path="lib/guava-10.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-core-0.20.2-cdh3u0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-lzo-0.4.12.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/yamlbeans-0.9.3.jar"/>
+	<classpathentry kind="lib" path="lib/pig-0.8.0-cdh3u0-core.jar"/>
+	<classpathentry kind="lib" path="lib/hbase-0.90.1-cdh3u0.jar"/>
+	<classpathentry kind="lib" path="lib/hive-serde-0.7.0-cdh3u0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
